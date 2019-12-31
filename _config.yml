@@ -18,36 +18,34 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: blog
+description: "Blog de Thierry Chappuis"
+keywords: "web, python, django, flask"
+url: http://thierry.chappuis.net
+baseurl: "/blog"
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+google_analytics: 
+repo: http://github.com/tchappui/blog
+disqus_shortname: "thierrychappuisnet"
+disqus_site_shortname: "thierrychappuisnet"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Thierry Chappuis
+  job: Data scientist & back-end engineer
+  bio: "Ingénieur passionné par le développement web, la data science et la programmation scientifique."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: tchappui@gmail.com
+  url: http://thierry.chappuis.net/
+  github: https://github.com/tchappui
+  twitter: https://twitter.com/tchappui
+  facebook: https://facebook.com/tchappui
+  linkedin: https://linkedin.com/in/tchappui
 
 # navbar pages
 navbar:
   - slug: about
-    title: About
-  - slug: icons
-    title: Icons
+    title: Qui suis-je?
   - slug: blog
     title: Blog
 
